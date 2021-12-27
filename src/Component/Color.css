@@ -1,0 +1,80 @@
+.abcd{
+    background-image: linear-gradient(blue,pink, orange);
+    overflow-x: hidden;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+.hello{
+    width: 200px;
+    position: relative;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    top: -5px;
+    left: 5px;
+
+    
+}
+.hello1{
+    position: relative;
+    width: 200px;
+    left: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    top: -5px;
+
+}
+.hello2{
+    position: relative;
+    width: 200px;
+    left: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    top: -2px;
+
+}
+.hello3{
+    position: relative;
+    width: 200px;
+    
+    padding: 4px;
+    border-radius: 25px;
+    background-color: rebeccapurple;
+    top: 30px;
+    left: 20px;
+    font-size: larger;
+    font-weight: 700;
+}
+.abcd1{
+    font-size: 32px;
+    
+    
+}
+.abcd2{
+    font-size: 32px;
+    
+}
+.abcd3{
+    font-size: 32px;
+    
+    
+}
+.hey{
+    background-color: salmon;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    
+}
+.hey1{
+   margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    background-color:greenyellow ;
+    padding: 10px;
+
+}
